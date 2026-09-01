@@ -1,0 +1,6 @@
+{
+  "name": "Digital Downloads & Video Courses Platform",
+  "description": "A comprehensive digital marketplace and learning platform for downloading verified APKs and streaming premium video courses with secure access control, admin management, and payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
